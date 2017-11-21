@@ -1,5 +1,3 @@
-仿饿了么外卖项目
-
 ![Alt text](https://github.com/javajump/imgs/blob/master/picture/1.PNG)
 ![Alt text](https://github.com/javajump/imgs/blob/master/picture/2.PNG)
 ![Alt text](https://github.com/javajump/imgs/blob/master/picture/3.PNG)
